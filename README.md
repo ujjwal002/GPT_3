@@ -1,4 +1,4 @@
 
 # uj-portfolio
 #WebSite-Link
-gpt3-future-uj.netlify.app
+https://gpt3-future-uj.netlify.app/
